@@ -75,3 +75,7 @@ executive summary.
 The dataset is suitable for technical practice, which is what it appears
 designed for. Any conclusion about the business it claims to describe would
 be invented rather than discovered.
+
+## Tools
+
+Python 3, pandas, Google Colab.
